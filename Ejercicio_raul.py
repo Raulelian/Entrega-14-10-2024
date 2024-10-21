@@ -13,12 +13,7 @@ def crear_lista_compra (carta):
         resultado.append(ingredientes)
     return resultado
 
-lista_compra = crear_lista_compra(carta)
-print (lista_compra)
-
-
-
-
-
+ 
+print(crear_lista_compra(carta))
 
 
